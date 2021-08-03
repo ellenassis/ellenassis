@@ -12,7 +12,7 @@ Hi, I'm Ellen, a girl in love with technology and especially front-end developme
 </div><br>
 <div>
   <a href="https://github.com/ellenassis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellenassis&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenassis&layout=compact&langs_count=16&theme=jolly"/>
+  <img align="center" height="180em" width="410" src="https://github-readme-stats.vercel.app/api?username=ellenassis&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenassis&layout=compact&langs_count=16&theme=jolly"/>
 <div>
 
