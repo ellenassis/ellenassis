@@ -1,7 +1,5 @@
 ### Hello ❤️ 
 
-Hi, I'm Ellen, a girl in love with technology and especially front-end development.
-
 **Languages and Tools:**  
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
