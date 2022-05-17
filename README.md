@@ -11,9 +11,5 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
  
 </div><br>
-<div>
-  <a href="https://github.com/ellenassis">
-  <img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=ellenassis&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em"  width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenassis&layout=compact&langs_count=16&theme=jolly"/>
-<div>
+
 
