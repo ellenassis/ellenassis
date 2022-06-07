@@ -1,6 +1,7 @@
 Hi, I'm Ellen.
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenassis&show_icons=true&theme=omni&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ellenassis=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Technologies I use
 
