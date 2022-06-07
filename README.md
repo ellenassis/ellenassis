@@ -1,6 +1,6 @@
 Hi, I'm Ellen.
 
-<img align="center" height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenassis&layout=compact&langs_count=7&theme=omni"/>
+<img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenassis&layout=compact&langs_count=7&theme=omni"/>
 
 
 ## Technologies I use
