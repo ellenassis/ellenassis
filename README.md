@@ -1,6 +1,6 @@
 Hi, I'm Ellen.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ellenassis=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" height="180em" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenassis&layout=compact&langs_count=7&theme=omni"/>
 
 
 ## Technologies I use
