@@ -1,6 +1,6 @@
 ## Hi, I'm Ellen.
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenassis&show_icons=true&theme=omni&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenassis&show_icons=true&theme=omni&count_private=true)<br />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenassis&layout=compact&langs_count=7&theme=omni"/>
 
 
