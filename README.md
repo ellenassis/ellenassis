@@ -1,9 +1,9 @@
-## Hi, I'm Ellen.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenassis&layout=compact&langs_count=7&theme=omni"/>
-
+## Hi, welcome. I'm Ellen.
+<p>I publish here my personal projects to improve my studies.</p>
 
 ## Technologies I use the most
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenassis&layout=compact&langs_count=7&theme=omni"/>
 
 <div style="display: inline_block">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-19cffe?style=for-the-badge&logo=react&logoColor=white" />
